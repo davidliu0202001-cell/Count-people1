@@ -1,0 +1,6 @@
+{
+  "name": "軍事事故統計工具",
+  "description": "解析對話截圖，統計事故資訊、科室人數與人員狀態。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
